@@ -36,7 +36,7 @@ In a first step, the most important predictors of influenza reduction are identi
         - `nb_days_testing_implementation`
         - `nb_days_contact_tracing_implementation`
 
-      Air-travel data is not included since they are commercially available and restrictions apply to redistribution of this data. Source of data are listed in the document `data_sources.txt`.
+      Air-travel data is not included since they are commercially available and restrictions apply to redistribution of this data. Source of data are listed in the document `data_sources.pdf`.
     
     - `FluNet_countries_fluregions.csv`: list of countries included in the FluNet repository and influenza region they belong to. Influenza regions are macro-regions defined by W.H.O which group countries with similar influenza epidemics. This information is used to implement stratified cross-validation in script `2_hyperparameters_tuning_for_regression_tree.R`.
 
@@ -57,3 +57,22 @@ In a first step, the most important predictors of influenza reduction are identi
 
       *Output*: `3_tree_predictions.csv`, list of the predicted values of flu reduction and the leaf classification of each country-trimester.   
       *Computation time*: < 1 min.
+
+### Software requirements
+
+This code is supported for *Linux*, *macOS* and *Windows*. The scripts has been tested on the following systems:
+- Linux: Ubuntu 18.04
+- macOS: Monterey 12.2
+
+The code is implemented in the `R` language (version 3.6.1) and uses the following packages:
+- VSURF (1.1.0)
+- rpart (4.1.16)
+- rpart.plot (3.1.0)
+- dplyr (1.0.9)
+- splitstackshape (1.4.8)
+
+The packages are publicly available for installation from the [CRAN](https://cran.r-project.org/) web servers.
+
+### License
+
+This project is covered under the **MIT License**.
