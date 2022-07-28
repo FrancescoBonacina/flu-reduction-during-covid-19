@@ -6,7 +6,7 @@ This repository contains a demo version of the code used in the analyses present
 
 This study analyzes the global influenza reduction during the first year and a half of the Covid-19 pandemic (March 2020 to September 2021). Influenza samples by country are aggregated by trimesters, and after removing country-trimesters not satisfying the inclusion critera, 93 countries were considered, up to 6 trimesters each, for a total of 330 data points (country-trimesters). 
 
-Potential predictors of the influenza reduction were identified by analysing 20 covariates, including country factors (geographic, meteorological, demographic, and health preparedness factors) and variables associated with COVID-19 pandemic. 
+Potential predictors of the influenza reduction were identified by analyzing 20 covariates, including country factors (geographic, meteorological, demographic, and health preparedness factors) and variables associated with COVID-19 pandemic. 
 
 In a first step, the most important predictors of influenza reduction are identified. Then, influenza reduction is predicted for each country-trimester by using a Classification and Regression Tree that includes covariates identified as significant. 
 
