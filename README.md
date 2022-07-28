@@ -36,7 +36,7 @@ In a first step, the most important predictors of influenza reduction are identi
         - `nb_days_testing_implementation`
         - `nb_days_contact_tracing_implementation`
 
-      Air-travel data is not included since they are commercially available and restrictions apply to redistribution of this data. Source of data are listed in the document `data_sources.pdf`.
+      Air-travel data is not included since they are commercially available and restrictions apply to redistribution of this data. Source of data are listed in the document [data_sources.md](https://github.com/FrancescoBonacina/flu-reduction-during-covid-19/blob/main/data_sources.md).
     
     - `FluNet_countries_fluregions.csv`: list of countries included in the FluNet repository and influenza region they belong to. Influenza regions are macro-regions defined by W.H.O which group countries with similar influenza epidemics. This information is used to implement stratified cross-validation in script `2_hyperparameters_tuning_for_regression_tree.R`.
 
