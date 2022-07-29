@@ -1,0 +1,331 @@
+"country","period","leaf_log_rel_flu_level","leaf_label"
+"Afghanistan","autumn2020",-0.551611862018268,7
+"Afghanistan","spring2020",-0.551611862018268,7
+"Afghanistan","spring2021",-0.551611862018268,7
+"Afghanistan","winter2021",-0.551611862018268,7
+"Argentina","autumn2020",-2.52643257168943,8
+"Argentina","spring2020",-1.08960620783565,11
+"Argentina","spring2021",-2.52643257168943,8
+"Argentina","summer2020",-2.52643257168943,8
+"Argentina","summer2021",-2.52643257168943,8
+"Australia","autumn2020",-2.2042528434122,10
+"Australia","spring2020",-1.08960620783565,11
+"Australia","spring2021",-2.2042528434122,10
+"Australia","summer2020",-2.2042528434122,10
+"Australia","summer2021",-2.2042528434122,10
+"Australia","winter2021",-2.2042528434122,10
+"Austria","spring2020",-1.08960620783565,11
+"Austria","spring2021",-2.52643257168943,8
+"Austria","winter2021",-2.52643257168943,8
+"Bangladesh","autumn2020",-0.551611862018268,7
+"Bangladesh","spring2020",-0.551611862018268,7
+"Bangladesh","spring2021",-0.551611862018268,7
+"Bangladesh","summer2020",-0.551611862018268,7
+"Bangladesh","summer2021",-1.25487300179964,6
+"Belarus","spring2021",-2.52643257168943,8
+"Belarus","winter2021",-2.52643257168943,8
+"Bolivia (Plurinational State of)","autumn2020",-1.25487300179964,6
+"Bolivia (Plurinational State of)","spring2020",-0.551611862018268,7
+"Bolivia (Plurinational State of)","spring2021",-1.25487300179964,6
+"Brazil","spring2020",-1.08960620783565,11
+"Brazil","spring2021",-2.52643257168943,8
+"Brazil","summer2020",-2.52643257168943,8
+"Brazil","summer2021",-2.52643257168943,8
+"Brazil","winter2021",-1.78378405378409,9
+"Bulgaria","winter2021",-2.52643257168943,8
+"Cambodia","autumn2020",-0.551611862018268,7
+"Cambodia","spring2020",-0.551611862018268,7
+"Cambodia","spring2021",-1.25487300179964,6
+"Cambodia","summer2020",-0.551611862018268,7
+"Cambodia","summer2021",-1.25487300179964,6
+"Cambodia","winter2021",-0.551611862018268,7
+"Cameroon","autumn2020",-0.551611862018268,7
+"Cameroon","spring2020",-0.551611862018268,7
+"Cameroon","spring2021",-0.551611862018268,7
+"Cameroon","summer2021",-0.551611862018268,7
+"Cameroon","winter2021",-0.551611862018268,7
+"Canada","autumn2020",-2.52643257168943,8
+"Canada","spring2020",-1.08960620783565,11
+"Canada","spring2021",-2.52643257168943,8
+"Canada","winter2021",-2.52643257168943,8
+"Chile","autumn2020",-2.52643257168943,8
+"Chile","spring2020",-2.52643257168943,8
+"Chile","spring2021",-2.52643257168943,8
+"Chile","summer2020",-2.52643257168943,8
+"Chile","summer2021",-2.52643257168943,8
+"Colombia","autumn2020",-1.78378405378409,9
+"Colombia","spring2020",-1.08960620783565,11
+"Colombia","spring2021",-1.78378405378409,9
+"Colombia","summer2020",-1.78378405378409,9
+"Colombia","summer2021",-1.78378405378409,9
+"Colombia","winter2021",-1.78378405378409,9
+"Costa Rica","autumn2020",-1.78378405378409,9
+"Costa Rica","spring2020",-1.08960620783565,11
+"Costa Rica","spring2021",-1.78378405378409,9
+"Costa Rica","summer2020",-1.78378405378409,9
+"Costa Rica","summer2021",-1.78378405378409,9
+"Costa Rica","winter2021",-1.78378405378409,9
+"Croatia","spring2021",-2.52643257168943,8
+"Croatia","winter2021",-2.52643257168943,8
+"Côte d'Ivoire","autumn2020",-0.551611862018268,7
+"Côte d'Ivoire","spring2020",-0.551611862018268,7
+"Côte d'Ivoire","spring2021",-0.551611862018268,7
+"Côte d'Ivoire","summer2020",-0.551611862018268,7
+"Côte d'Ivoire","summer2021",-0.551611862018268,7
+"Côte d'Ivoire","winter2021",-0.551611862018268,7
+"Denmark","spring2020",-1.08960620783565,11
+"Denmark","spring2021",-2.52643257168943,8
+"Denmark","winter2021",-2.52643257168943,8
+"Ecuador","spring2021",-1.78378405378409,9
+"Ecuador","summer2021",-2.2042528434122,10
+"Ecuador","winter2021",-1.08960620783565,11
+"Egypt","autumn2020",-0.551611862018268,7
+"Egypt","spring2020",-0.551611862018268,7
+"Egypt","spring2021",-0.551611862018268,7
+"Egypt","summer2020",-0.551611862018268,7
+"Egypt","summer2021",-0.551611862018268,7
+"Egypt","winter2021",-0.551611862018268,7
+"El Salvador","spring2020",-1.08960620783565,11
+"El Salvador","summer2020",-1.08960620783565,11
+"El Salvador","summer2021",-2.2042528434122,10
+"Estonia","spring2020",-1.08960620783565,11
+"Estonia","spring2021",-2.52643257168943,8
+"Estonia","winter2021",-2.52643257168943,8
+"Finland","winter2021",-2.2042528434122,10
+"France","winter2021",-2.52643257168943,8
+"Georgia","spring2021",-2.52643257168943,8
+"Georgia","winter2021",-2.52643257168943,8
+"Germany","spring2020",-1.08960620783565,11
+"Germany","spring2021",-2.52643257168943,8
+"Germany","winter2021",-2.52643257168943,8
+"Ghana","autumn2020",-0.551611862018268,7
+"Ghana","spring2021",-0.551611862018268,7
+"Ghana","summer2021",-0.551611862018268,7
+"Ghana","winter2021",-0.551611862018268,7
+"Guatemala","spring2020",-0.551611862018268,7
+"Guatemala","spring2021",-1.25487300179964,6
+"Guatemala","summer2021",-1.25487300179964,6
+"Guatemala","winter2021",-1.25487300179964,6
+"Haiti","autumn2020",-0.551611862018268,7
+"Haiti","spring2020",-0.551611862018268,7
+"Haiti","spring2021",-0.551611862018268,7
+"Haiti","summer2020",-0.551611862018268,7
+"Haiti","summer2021",-0.551611862018268,7
+"Haiti","winter2021",-0.551611862018268,7
+"Honduras","autumn2020",-1.25487300179964,6
+"Honduras","spring2020",-0.551611862018268,7
+"Honduras","spring2021",-1.25487300179964,6
+"Honduras","summer2020",-1.25487300179964,6
+"Honduras","summer2021",-1.25487300179964,6
+"Honduras","winter2021",-1.25487300179964,6
+"Hungary","winter2021",-2.52643257168943,8
+"India","autumn2020",-1.25487300179964,6
+"India","spring2020",-0.551611862018268,7
+"India","spring2021",-1.25487300179964,6
+"India","summer2021",-1.25487300179964,6
+"India","winter2021",-0.551611862018268,7
+"Indonesia","spring2020",-1.08960620783565,11
+"Indonesia","spring2021",-1.08960620783565,11
+"Indonesia","summer2020",-1.08960620783565,11
+"Indonesia","winter2021",-1.08960620783565,11
+"Iraq","autumn2020",-1.25487300179964,6
+"Iraq","winter2021",-1.25487300179964,6
+"Ireland","autumn2020",-2.52643257168943,8
+"Ireland","spring2020",-1.08960620783565,11
+"Ireland","spring2021",-2.52643257168943,8
+"Ireland","winter2021",-2.52643257168943,8
+"Israel","autumn2020",-2.52643257168943,8
+"Israel","winter2021",-2.52643257168943,8
+"Italy","winter2021",-2.52643257168943,8
+"Jamaica","spring2020",-0.551611862018268,7
+"Jamaica","spring2021",-1.25487300179964,6
+"Jamaica","summer2021",-1.25487300179964,6
+"Japan","autumn2020",-2.2042528434122,10
+"Japan","spring2020",-2.2042528434122,10
+"Japan","spring2021",-2.2042528434122,10
+"Japan","winter2021",-2.2042528434122,10
+"Jordan","autumn2020",-2.52643257168943,8
+"Jordan","spring2021",-2.52643257168943,8
+"Jordan","winter2021",-2.52643257168943,8
+"Kazakhstan","autumn2020",-1.08960620783565,11
+"Kazakhstan","winter2021",-1.08960620783565,11
+"Kenya","autumn2020",-0.551611862018268,7
+"Kenya","spring2021",-0.551611862018268,7
+"Kenya","summer2020",-0.551611862018268,7
+"Kenya","summer2021",-0.551611862018268,7
+"Kenya","winter2021",-0.551611862018268,7
+"Kyrgyzstan","winter2021",-1.08960620783565,11
+"Lao People's Democratic Republic","autumn2020",-0.551611862018268,7
+"Lao People's Democratic Republic","spring2020",-0.551611862018268,7
+"Lao People's Democratic Republic","spring2021",-0.551611862018268,7
+"Lao People's Democratic Republic","summer2020",-0.551611862018268,7
+"Lao People's Democratic Republic","summer2021",-1.25487300179964,6
+"Lao People's Democratic Republic","winter2021",-0.551611862018268,7
+"Latvia","spring2020",-1.08960620783565,11
+"Latvia","spring2021",-2.52643257168943,8
+"Latvia","winter2021",-2.52643257168943,8
+"Lebanon","autumn2020",-2.52643257168943,8
+"Lebanon","spring2021",-2.52643257168943,8
+"Lebanon","winter2021",-2.52643257168943,8
+"Lithuania","spring2021",-2.52643257168943,8
+"Luxembourg","spring2021",-2.52643257168943,8
+"Luxembourg","winter2021",-2.52643257168943,8
+"Malaysia","autumn2020",-1.08960620783565,11
+"Malaysia","spring2020",-1.08960620783565,11
+"Malaysia","spring2021",-1.78378405378409,9
+"Malaysia","summer2020",-2.2042528434122,10
+"Malaysia","summer2021",-1.78378405378409,9
+"Mali","spring2020",-0.551611862018268,7
+"Mali","spring2021",-0.551611862018268,7
+"Mali","summer2020",-0.551611862018268,7
+"Mali","summer2021",-0.551611862018268,7
+"Mauritius","spring2020",-1.08960620783565,11
+"Mauritius","summer2020",-2.2042528434122,10
+"Mexico","autumn2020",-1.08960620783565,11
+"Mexico","spring2020",-1.08960620783565,11
+"Mexico","spring2021",-2.2042528434122,10
+"Mexico","winter2021",-2.52643257168943,8
+"Mongolia","spring2020",-2.2042528434122,10
+"Mongolia","winter2021",-2.2042528434122,10
+"Mozambique","spring2020",-0.551611862018268,7
+"Nepal","autumn2020",-1.25487300179964,6
+"Nepal","spring2020",-0.551611862018268,7
+"Nepal","spring2021",-1.25487300179964,6
+"Nepal","summer2020",-1.25487300179964,6
+"Nepal","summer2021",-1.25487300179964,6
+"Nepal","winter2021",-0.551611862018268,7
+"New Zealand","summer2020",-2.2042528434122,10
+"Nicaragua","autumn2020",-0.551611862018268,7
+"Nicaragua","summer2020",-0.551611862018268,7
+"Nicaragua","summer2021",-0.551611862018268,7
+"Niger","autumn2020",-0.551611862018268,7
+"Niger","winter2021",-0.551611862018268,7
+"Nigeria","spring2021",-0.551611862018268,7
+"Nigeria","summer2021",-0.551611862018268,7
+"Nigeria","winter2021",-0.551611862018268,7
+"Norway","autumn2020",-2.2042528434122,10
+"Norway","spring2020",-1.08960620783565,11
+"Norway","spring2021",-2.52643257168943,8
+"Norway","winter2021",-2.52643257168943,8
+"Oman","autumn2020",-1.78378405378409,9
+"Oman","spring2020",-1.08960620783565,11
+"Oman","spring2021",-1.78378405378409,9
+"Oman","winter2021",-1.08960620783565,11
+"Pakistan","autumn2020",-0.551611862018268,7
+"Pakistan","spring2021",-0.551611862018268,7
+"Pakistan","winter2021",-0.551611862018268,7
+"Panama","spring2020",-1.08960620783565,11
+"Panama","spring2021",-1.78378405378409,9
+"Panama","summer2020",-1.78378405378409,9
+"Panama","summer2021",-1.78378405378409,9
+"Paraguay","spring2020",-1.08960620783565,11
+"Paraguay","spring2021",-2.52643257168943,8
+"Paraguay","summer2020",-2.2042528434122,10
+"Paraguay","summer2021",-2.52643257168943,8
+"Peru","spring2020",-1.08960620783565,11
+"Peru","spring2021",-2.52643257168943,8
+"Peru","summer2021",-2.2042528434122,10
+"Philippines","spring2021",-1.08960620783565,11
+"Philippines","summer2021",-1.78378405378409,9
+"Poland","spring2020",-1.08960620783565,11
+"Poland","spring2021",-2.52643257168943,8
+"Poland","winter2021",-2.52643257168943,8
+"Portugal","autumn2020",-2.52643257168943,8
+"Portugal","winter2021",-2.52643257168943,8
+"Qatar","autumn2020",-2.2042528434122,10
+"Qatar","spring2020",-1.78378405378409,9
+"Qatar","spring2021",-1.78378405378409,9
+"Qatar","summer2020",-1.78378405378409,9
+"Qatar","summer2021",-2.2042528434122,10
+"Qatar","winter2021",-2.52643257168943,8
+"Republic of Korea","autumn2020",-2.2042528434122,10
+"Republic of Korea","spring2021",-2.2042528434122,10
+"Republic of Korea","winter2021",-2.2042528434122,10
+"Republic of Moldova","spring2021",-2.52643257168943,8
+"Republic of Moldova","winter2021",-2.52643257168943,8
+"Romania","spring2020",-1.08960620783565,11
+"Romania","spring2021",-2.52643257168943,8
+"Romania","winter2021",-2.52643257168943,8
+"Russian Federation","spring2020",-1.08960620783565,11
+"Russian Federation","spring2021",-2.2042528434122,10
+"Russian Federation","winter2021",-2.52643257168943,8
+"Saudi Arabia","autumn2020",-1.08960620783565,11
+"Saudi Arabia","spring2020",-1.08960620783565,11
+"Saudi Arabia","spring2021",-2.2042528434122,10
+"Saudi Arabia","summer2021",-2.2042528434122,10
+"Saudi Arabia","winter2021",-1.08960620783565,11
+"Senegal","autumn2020",-0.551611862018268,7
+"Senegal","spring2021",-0.551611862018268,7
+"Senegal","summer2020",-0.551611862018268,7
+"Senegal","summer2021",-1.25487300179964,6
+"Senegal","winter2021",-0.551611862018268,7
+"Serbia","winter2021",-2.52643257168943,8
+"Singapore","autumn2020",-1.08960620783565,11
+"Singapore","spring2020",-1.78378405378409,9
+"Singapore","spring2021",-2.2042528434122,10
+"Singapore","summer2020",-1.08960620783565,11
+"Singapore","summer2021",-1.08960620783565,11
+"Singapore","winter2021",-2.2042528434122,10
+"Slovenia","spring2020",-1.08960620783565,11
+"Slovenia","spring2021",-2.52643257168943,8
+"Slovenia","winter2021",-2.52643257168943,8
+"South Africa","autumn2020",-2.2042528434122,10
+"South Africa","spring2020",-1.08960620783565,11
+"South Africa","spring2021",-2.2042528434122,10
+"South Africa","summer2020",-2.52643257168943,8
+"South Africa","summer2021",-2.52643257168943,8
+"Spain","winter2021",-2.52643257168943,8
+"Sri Lanka","autumn2020",-1.08960620783565,11
+"Sri Lanka","spring2020",-1.08960620783565,11
+"Sri Lanka","spring2021",-1.08960620783565,11
+"Sri Lanka","summer2020",-2.2042528434122,10
+"Sri Lanka","summer2021",-1.78378405378409,9
+"Sri Lanka","winter2021",-1.08960620783565,11
+"Sweden","spring2020",-1.08960620783565,11
+"Sweden","spring2021",-2.52643257168943,8
+"Sweden","winter2021",-2.52643257168943,8
+"Thailand","autumn2020",-2.2042528434122,10
+"Thailand","spring2020",-1.08960620783565,11
+"Thailand","spring2021",-2.2042528434122,10
+"Thailand","summer2020",-2.2042528434122,10
+"Thailand","summer2021",-1.78378405378409,9
+"Thailand","winter2021",-2.2042528434122,10
+"Togo","autumn2020",-0.551611862018268,7
+"Togo","spring2021",-0.551611862018268,7
+"Togo","summer2021",-0.551611862018268,7
+"Togo","winter2021",-0.551611862018268,7
+"Turkey","spring2021",-2.52643257168943,8
+"Turkey","winter2021",-2.52643257168943,8
+"Uganda","autumn2020",-0.551611862018268,7
+"Uganda","spring2021",-0.551611862018268,7
+"Uganda","summer2020",-0.551611862018268,7
+"Uganda","summer2021",-0.551611862018268,7
+"Ukraine","spring2020",-1.08960620783565,11
+"Ukraine","spring2021",-2.52643257168943,8
+"Ukraine","winter2021",-2.52643257168943,8
+"United Kingdom of Great Britain and Northern Ireland","autumn2020",-2.52643257168943,8
+"United Kingdom of Great Britain and Northern Ireland","spring2020",-1.08960620783565,11
+"United Kingdom of Great Britain and Northern Ireland","spring2021",-1.08960620783565,11
+"United Kingdom of Great Britain and Northern Ireland","winter2021",-2.52643257168943,8
+"United Republic of Tanzania","autumn2020",-0.551611862018268,7
+"United Republic of Tanzania","spring2020",-0.551611862018268,7
+"United Republic of Tanzania","spring2021",-0.551611862018268,7
+"United Republic of Tanzania","summer2020",-0.551611862018268,7
+"United Republic of Tanzania","summer2021",-0.551611862018268,7
+"United Republic of Tanzania","winter2021",-0.551611862018268,7
+"United States of America","autumn2020",-2.52643257168943,8
+"United States of America","spring2020",-1.08960620783565,11
+"United States of America","spring2021",-2.52643257168943,8
+"United States of America","winter2021",-2.52643257168943,8
+"Uruguay","summer2021",-2.52643257168943,8
+"Viet Nam","autumn2020",-2.2042528434122,10
+"Viet Nam","spring2020",-2.2042528434122,10
+"Viet Nam","spring2021",-2.2042528434122,10
+"Viet Nam","summer2020",-2.2042528434122,10
+"Viet Nam","winter2021",-2.2042528434122,10
+"Zambia","autumn2020",-0.551611862018268,7
+"Zambia","spring2020",-0.551611862018268,7
+"Zambia","spring2021",-0.551611862018268,7
+"Zambia","summer2020",-0.551611862018268,7
+"Zambia","summer2021",-1.25487300179964,6
+"Zambia","winter2021",-1.25487300179964,6
