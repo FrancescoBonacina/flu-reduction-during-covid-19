@@ -53,7 +53,7 @@ In a first step, the most important predictors of influenza reduction are identi
       *Output*: `1_selected_variables.txt` with the list of the important predictors.     
       *Computation time*: ~10 min.
 
-  2) `2_hyperparameters_tuning_for_regression_tree.R`. The regression tree is implemented by using the *rpart* package. To control overfitting we play with tune two hyperparameters, *minbucket* and *cp*, which regularize the structure of the tree. A cross-validation procedure is implemented in order to explore numerous combinations of the two parameters. 
+  2) `2_hyperparameters_tuning_for_regression_tree.R`. The regression tree is implemented by using the *rpart* package. To control overfitting we tune two hyperparameters, *minbucket* and *cp*, which regularize the structure of the tree. A cross-validation procedure is implemented in order to explore numerous combinations of the two parameters. 
 
       *Output*: `2_results_CV.csv`, values tested for *minbucket* and *cp* are reported here. In addition, estimates of the mean and standard deviation of the prediction error and the mean number of tree subdivisions are given for each combination of hyperparameters.    
       *Computation time*: ~ 6-8 hours.
