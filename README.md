@@ -42,7 +42,12 @@ In a first step, the most important predictors of influenza reduction are identi
 
 - The `outputs` folder contains the outputs returned by the R scripts.
 
-- The main steps of the analyses are implemented in three R scripts:
+- The analysis is based on the publicly available packages:
+    - VSURF: Genuer R, Poggi J-M, Tuleau-Malot C. VSURF: An R Package for Variable Selection Using Random Forests. The R Journal. 2015;7:
+19–33.
+    - rpart: Therneau TM, Atkinson B, Ripley B. rpart: Recursive Partitioning and Regression Trees. 2015  
+    
+    The main steps of the analyses are implemented in three R scripts:
   1) In `1_selection_of_predictors_of_flu_reduction.R` the *VSURF* algorithm is used to estimate the importance of each predictors and select the most significant ones.
 
       *Output*: `1_selected_variables.txt` with the list of the important predictors.     
